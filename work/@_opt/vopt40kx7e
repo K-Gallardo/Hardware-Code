@@ -1,0 +1,87 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/k/k_gallar/COEN313/lab5
+T_opt
+Z1 V<Ee>4H63WBHeJPEk;jLB63
+Z2 04 17 8 work twos_complementer two_arch 1
+Z3 =1-d8bbc17a3280-63878d11-b9d32-3833
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.6g;45
+Z7 d/home/k/k_gallar/COEN313/lab5
+T_opt1
+Z8 VhcPH4Y8fR7cIc4bQHm;<62
+Z9 04 17 8 work twos_complementor two_arch 1
+Z10 =1-d8bbc17a3280-6387894f-e2123-31f2
+R4
+Z11 n@_opt1
+R6
+R7
+Etwos_complementer
+Z12 w1669827845
+Z13 DPx17 __model_tech/ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z14 DPx17 __model_tech/ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z15 DPx17 __model_tech/ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z16 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+R7
+Z17 8chegg.vhd
+Z18 Fchegg.vhd
+l0
+L6
+Z19 VSk[=l929lUTIfVNT4iWlm1
+Z20 OL;C;6.6g;45
+Z21 tExplicit 1
+Z22 !s100 ]Ro9oC<l1JZUjHCn3VNc@3
+Atwo_arch
+R13
+R14
+R15
+R16
+DEx38 /nfs/home/k/k_gallar/COEN313/lab5/work 17 twos_complementer 0 22 Sk[=l929lUTIfVNT4iWlm1
+32
+Mx4 17 __model_tech/ieee 14 std_logic_1164
+Mx3 17 __model_tech/ieee 18 std_logic_unsigned
+Mx2 17 __model_tech/ieee 15 std_logic_arith
+Mx1 17 __model_tech/ieee 11 numeric_std
+l26
+L14
+Z23 VT5T?3]C<MXb=W3]P4L@G[2
+R20
+R21
+Z24 !s100 fbSzFh@`2FU2M6Fn>G3Fg3
+Etwos_complementor
+Z25 w1669826889
+Z26 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z27 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z28 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z29 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+R7
+Z30 8lab5.vhd
+Z31 Flab5.vhd
+l0
+L6
+Z32 V9AKMJiI8aD;eBG;@nFdOk2
+R20
+32
+R21
+Z33 !s100 Q>Il<8V:hEcIf98>TbM8`2
+Atwo_arch
+R26
+R27
+R28
+R29
+Z34 DEx4 work 17 twos_complementor 0 22 9AKMJiI8aD;eBG;@nFdOk2
+l35
+L14
+Z35 V=5:5LC4F1[]Ha=IzCk<VQ2
+R20
+32
+Z36 Mx4 4 ieee 14 std_logic_1164
+Z37 Mx3 4 ieee 18 std_logic_unsigned
+Z38 Mx2 4 ieee 15 std_logic_arith
+Z39 Mx1 4 ieee 11 numeric_std
+R21
+Z40 !s100 X6B9Cb<jQI?j=8ZBlQ6Kg0
